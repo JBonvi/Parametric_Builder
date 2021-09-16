@@ -21,4 +21,8 @@ Il download di [Microsoft Power Automate Desktop ](https://powerautomate.microso
 
 In ogni caso puoi utilizzare il mio flow come semplice riferimento per costruire il tuo.
 
-In breve, grazie al salvataggio delle variabili LWD e alla scelta del materiale da parte di un qualsiasi utente, (non necessariamente tecnico)
+In breve, grazie all'inserimento delle variabili  L W D (ma se ne possono aggiungere molte altre) e alla scelta del materiale tramite la comparsa di finestre a scelta multipla, qualsiasi utente (soprattutto personale non tecnico e/o abituato all'uso di programmi CAD) può creare facilmente i propri parametrici. 
+
+L'idea alla base di questo flusso nasce dalla volontà di annullare (quando possibile) i tempi morti di attesa fra la richiesta di modelli standardizzati da parte dell'ufficio commerciale e l'effettiva ricezione/inizio della lavorazione da parte dell'ufficio tecnico oberato di altri impegni o occupato da lunghe lavorazioni. 
+
+ATTENZIONE: lo stesso risultato si può ottenere impostando un flusso Esko AE che parta da un'esportazione XML inviata da un utente X tramite l'ERP aziendale
