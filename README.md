@@ -1,12 +1,12 @@
 # Parametric_Builder
 
-### Artioscad parametric builder made with Power Automate
+### Artioscad parametric builder, made with Power Automate
 
-It's allow everyone to build parametric design with the support of a workstation running this workflow with Microsoft Power Automate 
+This script allows everyone to build parametric designs with the help of a workstation running Microsoft Power Automate 
 
-You can simply download [Microsoft Power Automate Desktop ](https://powerautomate.microsoft.com/it-it/desktop/) (it's free), and copy paste my code into a new empty flow.
-Remember, you need to replace every custom menù/materials/parametric design name with your terms, i tryed to make evident with "REPLACE_WITH_YOUR_SELECTED_XXXXX_NAME".
-If i missed something search for every italian or custom terms i forgot and replace them
+You can simply download [Microsoft Power Automate Desktop ](https://powerautomate.microsoft.com/it-it/desktop/) (it's free), and copy & paste my code into a new, empty flow.
+Remember that you need to replace every custom menu/material/parametric design name with your own terms, I tried to highlight them with "REPLACE_WITH_YOUR_SELECTED_XXXXX_NAME".
+If I missed something look for every italian or custom term and replace it.
 
 
 ---
@@ -17,7 +17,7 @@ If i missed something search for every italian or custom terms i forgot and repl
 
 Grazie a questo flow fatto girare su una workstation tramite Microsoft Power Automate chiunque ha la possibilità di avviare la costruzione di uno specifico Design Parametrico.
 
-Il download di [Microsoft Power Automate Desktop ](https://powerautomate.microsoft.com/it-it/desktop/) è gratuito, appena installato, e dopo aver creato un nuovo flusso, ti basterà copiare e incollare il mio flow per importarlo corrrettamente. Prima di avviarlo controlla e sotituisci le linee di codice con indicato "REPLACE_WITH_YOUR_SELECTED_XXXXX_NAME" con i termini utilizzati dai tuoi menù/libreria materiali/parametrici  ecc ecc. Lavorando con una versione standard di ArtiosCAD 20 in italiano non dovrebbero comparire molti errori ma potrebbe essermi sfuggito qualcosa.
+Il download di [Microsoft Power Automate Desktop](https://powerautomate.microsoft.com/it-it/desktop/) è gratuito. Dopo aver creato un nuovo flusso, ti basterà copiare e incollare il mio flow per importarlo corrrettamente. Prima di avviarlo controlla e sotituisci le linee di codice con indicato "REPLACE_WITH_YOUR_SELECTED_XXXXX_NAME" con i termini utilizzati dai tuoi menù/libreria materiali/parametrici  ecc ecc. Lavorando con una versione standard di ArtiosCAD 20 in italiano non dovrebbero comparire molti errori ma potrebbe essermi sfuggito qualcosa.
 
 In ogni caso puoi utilizzare il mio flow come semplice riferimento per costruire il tuo.
 
