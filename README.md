@@ -1,6 +1,6 @@
 # Parametric_Builder
 
-### Artioscad's parametric builder made with Power Automate
+### Artioscad parametric builder made with Power Automate
 
 It's allow everyone to build parametric design with the support of a workstation running this workflow with Microsoft Power Automate 
 
